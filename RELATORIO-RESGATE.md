@@ -48,16 +48,16 @@ Observações:
 - `6572d8a` Felipe Rocha: versionou credenciais (tag `commit-perigoso`)
 
 **Correções na branch de resgate**
-- `c69b405` restaura `EntregaService` (endereço e `salvar`)
-- `52d350c` recupera `Validador.java`
-- `5e9565e` corrige a autenticação em `LoginService`
-- `21a75e3` restaura o README de `docs-readme`
-- `4a8cca2` remove `config/application.properties` e atualiza o `.gitignore`
-- `f520e9f` ajusta documentação do desafio
+- `3b96026` restaura `EntregaService` (endereço e `salvar`)
+- `c31954f` recupera `Validador.java`
+- `c65dffb` corrige a autenticação em `LoginService`
+- `16b4482` restaura o README de `docs-readme`
+- `5af164e` remove `config/application.properties` e atualiza o `.gitignore`
+- `9ec309d` ajusta documentação do desafio
 
-**Integração:** merge `853bcbe` na `main` (`--no-ff`).
+**Integração:** merge `e7c20a5` na `main` (`--no-ff`).
 
-**Pull Requests posteriores no GitHub (03/10/2026):** a `main` remota recebeu os PRs #1 `feature-cadastro` (`8a8ef2a`, validação do status em `EntregaService`), #2 `hotfix-login` (`61ab914`, só `NOTA-HOTFIX.txt`) e #3 `docs-readme` (`3c45764`, README já recuperado). Compilação e login revalidados após os PRs.
+**Pull Requests posteriores no GitHub (03/10/2026):** a `main` remota recebeu os PRs #1 `feature-cadastro` (`35d7628`, validação do status em `EntregaService`), #2 `hotfix-login` (`972e6d7`, só `NOTA-HOTFIX.txt`) e #3 `docs-readme` (`050d1b3`, README já recuperado). Compilação e login revalidados após os PRs.
 
 **Fonte das versões boas:** `v1.0.0-funcional` (`356ec6f`, Bruno Costa) e `docs-readme` (`7fe8faa`, Carla Souza).
 
