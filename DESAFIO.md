@@ -5,7 +5,7 @@ A entrega ao cliente acontece em breve. O sistema não compila, o login apresent
 1. Não apague a pasta `.git`.
 2. Não copie um projeto novo por cima deste.
 3. Toda correção deve ser identificável no histórico.
-4. Trabalhe em uma nova branch com o padrão `resgate/equipe-NOME`.
+4. Trabalhe em uma nova branch com o padrão `resgate/discente-NOME`.
 5. Ao final, faça merge da branch de resgate em `main`.
 6. Registre no `RELATORIO-RESGATE.md` os comandos usados e as evidências.
 ## Portas da sala
