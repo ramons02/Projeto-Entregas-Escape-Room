@@ -2,3 +2,7 @@ target/
 *.class
 .idea/
 .vscode/
+
+# Credenciais e configuracoes sensiveis
+config/application.properties
+config/*.properties
