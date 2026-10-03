@@ -1,0 +1,1 @@
+Hotfix validado: a comparação da senha deve usar equals e exigir usuário e senha corretos.
