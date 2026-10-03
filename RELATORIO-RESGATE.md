@@ -57,6 +57,8 @@ Observações:
 
 **Integração:** merge `853bcbe` na `main` (`--no-ff`).
 
+**Pull Requests posteriores no GitHub (03/10/2026):** a `main` remota recebeu os PRs #1 `feature-cadastro` (`8a8ef2a`, validação do status em `EntregaService`), #2 `hotfix-login` (`61ab914`, só `NOTA-HOTFIX.txt`) e #3 `docs-readme` (`3c45764`, README já recuperado). Compilação e login revalidados após os PRs.
+
 **Fonte das versões boas:** `v1.0.0-funcional` (`356ec6f`, Bruno Costa) e `docs-readme` (`7fe8faa`, Carla Souza).
 
 ## Validação final
