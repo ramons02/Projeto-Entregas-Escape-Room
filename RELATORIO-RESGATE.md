@@ -1,5 +1,6 @@
 # Relatório de Resgate
 - Equipe: Ramon
+- Data: 06/10/2026
 - Branch de trabalho: `resgate/equipe-ramon` (criada a partir de `release-dev`, `799c5ec`)
 
 ## Diagnóstico
